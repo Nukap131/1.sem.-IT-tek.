@@ -1,0 +1,18 @@
+Man deklarerer først variabler, derefter initialiserer det. Man initialiserer ved at give en værdi for variabler.
+
+Eks:
+#include <string>
+string navn; // deklaration
+navn = "Maria"; //En initialisering
+string navn2 = "Giorgios"; //samtidig deklaration og initialisering.
+
+int a, b, c, // Multiple deklaration
+int column = 0, row = 0, index = 0; // multiple deklaration & initialisering.
+
+11/09-2024
+Repetition fra sidste uges øvelser; VScode, øvelse 1-4.
+-strings
+-conversions
+-if else statements
+-Check password.length eksempler
+Til sidst flowchart
